@@ -13,9 +13,11 @@ You can use it in java Application/ Java Swing Applications / J2EE Application
 For Any Projects in BE/TE/MCA Project Contact :-
 
 http://www.technowingsinc.com/
-TechnoWings Inc Pune| www.technowingsinc.com | TeamTechnoWings@gmail.com 
+-------------------------------------------
+TechnoWings Inc Pune | www.technowingsinc.com | TeamTechnoWings@gmail.com 
+-------------------------------------------
 Contact Person
-Rajesh Agrawal ( 97667 50000/98609 23474)
+-------------------------------------------
 Address
 Hardik Residency,
 2nd Floor,

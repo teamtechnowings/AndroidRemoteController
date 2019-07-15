@@ -16,12 +16,5 @@ http://www.technowingsinc.com/
 -------------------------------------------
 TechnoWings Inc Pune | www.technowingsinc.com | TeamTechnoWings@gmail.com 
 -------------------------------------------
-Contact Person
--------------------------------------------
-Address
-Hardik Residency,
-2nd Floor,
-Behind Reliance Fresh,
-Right Bhusari Colony,
-Kothrud DepoPune.
+Address - Kothrud Depo Pune
 ------------------------------------------------------------------------

@@ -10,7 +10,7 @@ You can use it in java Application/ Java Swing Applications / J2EE Application
 3. When you open the android app, enter the PC IP Address
 4. You will be able to control up,down,left,right directions 
 ------------------------------------------------------------------------
-For Any Projects in BE/TE/MCA Project Contact :-
+For Any Project related help,  Please contact on :- TeamTechnoWings@gmail.com  
 
 http://www.technowingsinc.com/
 -------------------------------------------
